@@ -1,0 +1,2 @@
+# calculadora-tradingsuper
+calculadora-trading
